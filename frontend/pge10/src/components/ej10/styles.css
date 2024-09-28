@@ -1,0 +1,9 @@
+  .appcontainer {
+        display: flex;
+        /* Si quieres alinear los elementos al centro de forma horizontal y vertical: */
+        justify-content: center;  /* Centra horizontalmente */
+        align-items: center;  /* Centra verticalmente */
+      }
+  
+  
+  
