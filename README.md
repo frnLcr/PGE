@@ -70,6 +70,4 @@ Para ejecutar el servidor y el frontend, sigue estos pasos:
 
 - **Node.js**: Versión 14 o superior.
 - **npm**: Versión 6 o superior.
-```
 
-Cuando lo pegues en un archivo Markdown (como `README.md`), las negritas y el código enlazado se verán de manera correcta.
