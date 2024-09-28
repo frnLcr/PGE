@@ -5,8 +5,8 @@ Este proyecto incluye una serie de ejercicios interactivos utilizando React en e
 ## Librerías Utilizadas
 
 - **express**: Manejo de servidores en Node.js.
-- **cors**: Control de acceso entre frontend y backend.
-- **express-multer**: Gestión de archivos.
+- **express cors**: Control de acceso entre frontend y backend.
+- **express multer**: Gestión de archivos.
 - **recharts**: Gráficos dinámicos para la visualización de datos.
 - **react-slider**: Componentes de sliders personalizables.
 
